@@ -1,2 +1,2 @@
 # langchain_notebooks
-A short notebook tutorial about LangChain Chains, Memory, Agents, Model, Prompts etc.
+A detailed notebook tutorial about LangChain Chains, Memory, Agents, Models, and Prompts.
